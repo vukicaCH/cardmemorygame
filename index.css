@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: green;
+}
+
+.game-name{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+
+.card{
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  margin: 5px;
+  display: inline-block;
+  background-image: url('pozadina.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.disabled{
+  pointer-events: none;
+}
+
+.ace{
+  background-image: url('ACE.png');
+}
+
+.ten{
+  background-image: url('10.png');
+}
+
+.j{
+  background-image: url('J.png');
+}
+
+.queen{
+  background-image: url('QUEEN.png');
+}
+
+.king{
+  background-image: url('KING.png');
+}
+
+.end-of-game{
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+
+.end-of-game button{
+  padding: 50px 100px;
+  font-size: 50px;
+  font-weight: bold;
+  background-color: red;
+  border: 2px solid white;
+}
+
+.guessed{
+  opacity: 0;
+  z-index: -1;
+  pointer-events: none;
+}
