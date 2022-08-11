@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cardmemorygame/static/css/main.809a789f.css",
+    "main.js": "/cardmemorygame/static/js/main.7fafed0f.js",
+    "static/js/787.fdcf2462.chunk.js": "/cardmemorygame/static/js/787.fdcf2462.chunk.js",
+    "static/media/KING.png": "/cardmemorygame/static/media/KING.67c7a87603fdc5b5e2f7.png",
+    "static/media/J.png": "/cardmemorygame/static/media/J.f623f209cee34f5f36ea.png",
+    "static/media/QUEEN.png": "/cardmemorygame/static/media/QUEEN.746a7ee8eaded6c7944b.png",
+    "static/media/pozadina.png": "/cardmemorygame/static/media/pozadina.9d5277b507197bdd15e2.png",
+    "static/media/10.png": "/cardmemorygame/static/media/10.bf72f319e7272679bbda.png",
+    "static/media/ACE.png": "/cardmemorygame/static/media/ACE.5a72df7d30e47434c2a8.png",
+    "index.html": "/cardmemorygame/index.html",
+    "main.809a789f.css.map": "/cardmemorygame/static/css/main.809a789f.css.map",
+    "main.7fafed0f.js.map": "/cardmemorygame/static/js/main.7fafed0f.js.map",
+    "787.fdcf2462.chunk.js.map": "/cardmemorygame/static/js/787.fdcf2462.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.809a789f.css",
+    "static/js/main.7fafed0f.js"
+  ]
+}
